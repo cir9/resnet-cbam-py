@@ -1,6 +1,6 @@
 # ResNet-18_CBAM for Digital Cytopathology Image Classification
 
-This repository provides the implementation of a ResNet-18_CBAM network for digital cytopathology image classification. 
+This repository provides the implementation of ResNet-18_CBAM network for digital cytopathology image classification. 
 
 
 ## Overview
@@ -44,7 +44,7 @@ The dataset contains six types of lung cells:
   - Operating System: Windows 10
 - **Software:**
   - Python 3.9.7
-  - PyTorch-GPU 1.10.2
+  - PyTorch 1.10.2
   - SimpleITK 2.1.1
   - NumPy 1.21.5
 
