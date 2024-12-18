@@ -1,6 +1,6 @@
 # ResNet-18_CBAM for Digital Cytopathology Image Classification
 
-This repository provides the implementation of a ResNet-18_CBAM network for digital cytopathology classification. 
+This repository provides the implementation of a ResNet-18_CBAM network for digital cytopathology image classification. 
 
 
 ## Overview
